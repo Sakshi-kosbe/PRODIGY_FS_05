@@ -62,7 +62,7 @@ Artify was built to:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/artify.git
+git clone https://github.com/Sakshi-kosbe/PRODIGY_FS_05.git
 
 2. Navigate to the project directory:
 
@@ -120,12 +120,6 @@ Contributions are welcome!
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-You are free to use, modify, and distribute this project.
-
----
 
 ## 👩‍🎨 Author
 
