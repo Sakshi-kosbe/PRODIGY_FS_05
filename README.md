@@ -78,26 +78,10 @@ npm start
 
 5. Open your browser and visit:
 
-http://localhost:3000
+https://prodigy-fs-05-rho.vercel.app/
 
 ---
 
-## 📁 Project Structure
-
-artify/
-│
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   ├── styles/
-│   └── App.js
-│
-├── public/
-├── package.json
-└── README.md
-
----
 
 ## 🧪 Future Enhancements
 
